@@ -1,6 +1,6 @@
 package com.bhanu.singleton;
 
-public class Main {
+public class Runner {
 
 	public static void main(String[] args)
 	{
